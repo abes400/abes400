@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abes400
-- 👀 I’m interested in Multimedia Systems, Image Compression App development and Game development
+- 👀 I’m interested in Multimedia Systems, Image Compression, App development, and Game development
 - 😄 Pronouns: he/him
 
 <!---
